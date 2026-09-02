@@ -1,0 +1,7 @@
+Guia para instalar y conectar correctamente Jupyter
+
+1. Si estamos en VS Code debemos instalar la extension de Jupyter
+2. Crear un virtual enviroment
+3. Ejecutar pip install jupyter ipykernel
+4. En la esquina superior derecha del notebook veremos la opcion "Seleccionar Kernel" ahi escogeremos el virtual enviroment creado
+5. La primera vez que intentes ejecutar una celda de código (Shift + Enter), VS Code te mostrará un aviso flotante indicando que el entorno requiere el paquete ipykernel para funcionar.
